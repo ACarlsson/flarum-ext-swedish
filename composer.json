@@ -1,5 +1,5 @@
 {
-    "name": "ACarlsson/flarum-ext-swedish",
+    "name": "acarlsson/flarum-ext-swedish",
     "type": "flarum-extension",
     "description": "Swedish language pack.",
     "keywords": ["locale", "language", "swedish", "svenska", "sv", "se"],
