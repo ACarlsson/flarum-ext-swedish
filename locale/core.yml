@@ -253,7 +253,7 @@ core:
       sign_up_text: "Har du inget konto? <a>Bli medlem</a>"
       submit_button: => core.ref.log_in
       title: => core.ref.log_in
-      username_or_email_placeholder: Användarnamn eller lösenord
+      username_or_email_placeholder: Användarnamn eller e-postadress
 
     # These translations are used by the Notifications dropdown, a.k.a. "the bell".
     notifications:
@@ -463,8 +463,8 @@ core:
 
   # Translations in this namespace are used to translate default group names.
   group:
-    admin: Admin
-    admins: Admins
+    admin: Administratör
+    admins: Administratörer
     guest: Gäst
     guests: Gäster
     member: Medlem
